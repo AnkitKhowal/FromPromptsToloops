@@ -1,6 +1,6 @@
 # 01 — LLMs 101: Everything You Need Before Building with AI
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=wS6L1d4iwLk)  
 > **What this is:** The complete mental model for LLMs before you write a single line of code.
 
 ---
