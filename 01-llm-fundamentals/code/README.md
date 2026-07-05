@@ -17,7 +17,4 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
-
----
-> Running into issues? Open an issue and tag it with the chapter number.
+| https://colab.research.google.com/drive/13M_PXGygxnK7a8J3rEbPUQlou8dU2eAe?usp=sharing | This notebook demonstrates how to interact with Large Language Models (LLMs) using the OpenAI Python SDK and direct HTTP requests. It covers:|
