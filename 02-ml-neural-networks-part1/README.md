@@ -1,6 +1,6 @@
 # 02 — ML & Neural Networks Part 1: How Machines Actually Learn
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=g3Z4vX5dCSE)  
 > **What this is:** The math behind how any ML model — from a simple regressor to a billion-parameter LLM — actually learns from data.
 
 ---
