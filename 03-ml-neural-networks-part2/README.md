@@ -1,7 +1,7 @@
 # 03 — ML & Neural Networks Part 2: Inside a Neural Network ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/neural_network.ipynb`](code/neural_network.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=ImAYVvkWIWA)  
+> **Code:** [`code/neural_network.ipynb`](https://colab.research.google.com/drive/1priJD88sFGuAM58-ycs9Q6mZoPvisM6X?authuser=1#scrollTo=7vmXIV8YnPQt)  
 > **What this is:** How neural networks work internally, why they can solve problems simple ML can't, and a live code walkthrough.
 
 ---
