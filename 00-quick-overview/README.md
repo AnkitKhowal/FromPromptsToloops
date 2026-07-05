@@ -1,6 +1,6 @@
 # 00 — 10 AI Concepts Every Beginner Must Know
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops) · **Duration:** ~30 min  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=L6u2GHXfhlc&t=6s) · **Duration:** ~30 min  
 > **What this is:** A fast-paced map of the entire AI landscape — so everything in later chapters has context.
 
 ---
