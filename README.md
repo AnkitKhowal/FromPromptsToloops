@@ -69,26 +69,35 @@ Each chapter README has a "Go Deeper" section with links to the original papers 
 
 ## Repo Structure
 
+Every chapter has the same three sections:
+
 ```
 FromPromptsToloops/
-├── README.md                    ← you are here
-├── 00-quick-overview/
-│   └── README.md                ← notes for the intro video
+├── README.md                        ← you are here
 ├── 01-llm-fundamentals/
-│   ├── README.md                ← notes
-│   └── diagrams/                ← visuals from the session
-├── 03-ml-neural-networks-part2/
-│   ├── README.md
-│   ├── diagrams/
-│   └── code/
-│       └── neural_network.ipynb ← runnable notebook
+│   ├── README.md                    ← chapter overview and key concepts
+│   ├── notes/
+│   │   └── README.md                ← written notes, diagrams, cheatsheets
+│   ├── code/
+│   │   └── README.md                ← notebooks and scripts
+│   └── resources/
+│       └── README.md                ← papers, blogs, tools, docs
+├── 02-ml-neural-networks-part1/
+│   ├── ...same structure...
 ...
 ├── assets/
 │   └── banner.png
+├── CONTRIBUTING.md
 └── LICENSE
 ```
 
-Each chapter with code has a `code/` subfolder. Notebooks are runnable on [Google Colab](https://colab.research.google.com) with no local setup required — look for the "Open in Colab" badge at the top of each notebook.
+| Folder | What goes in it |
+|--------|----------------|
+| `notes/` | Written concepts from the video — diagrams, cheatsheets, deeper explanations |
+| `code/` | Jupyter notebooks and scripts — all runnable on Google Colab |
+| `resources/` | Papers, blog posts, tools, and docs for going deeper on the topic |
+
+Notebooks are runnable on [Google Colab](https://colab.research.google.com) with no local setup — look for the "Open in Colab" badge at the top of each notebook.
 
 ---
 
