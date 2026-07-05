@@ -1,6 +1,6 @@
 # 04 — Transformers Part 1: How LLMs Actually Read (Tokens, Embeddings & Attention)
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=W6w3lRHEbqk)  
 > **What this is:** The architecture that powers every modern LLM — how text becomes vectors, and how the model reads the whole sequence at once.
 
 ---
