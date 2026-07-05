@@ -17,7 +17,9 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
+| *https://colab.research.google.com/drive/1priJD88sFGuAM58-ycs9Q6mZoPvisM6X?authuser=1#scrollTo=7vmXIV8YnPQt* | This notebook demonstrates how to build, train, and evaluate a simple neural network using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. It covers data loading, preprocessing, model definition, training, evaluation, and making predictions on new images.
+
+|
 
 ---
 > Running into issues? Open an issue and tag it with the chapter number.
