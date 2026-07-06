@@ -17,7 +17,5 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
+| *(https://colab.research.google.com/drive/1NsD6qfwJZs7qIZYK5zrsJYndM84ovD-t?usp=sharing)* | This notebook explains how to build a basic AI agent from scratch using the OpenAI SDK and plain Python, without relying on external frameworks. It demonstrates the 'Think → Act → Observe → repeat' agentic loop.|
 
----
-> Running into issues? Open an issue and tag it with the chapter number.
