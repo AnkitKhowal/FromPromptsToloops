@@ -1,6 +1,6 @@
 # 06 — Inside an LLM Training Run: Ablations, Evals, Data Prep & Post-Training
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=n27dBJbDQg0)  
 > **What this is:** What actually happens when a lab trains a frontier model — the data pipeline, training decisions, and how base models become chat models.
 
 ---
