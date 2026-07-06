@@ -17,7 +17,5 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
+| *(https://colab.research.google.com/drive/1eyQqGxZgbXBrjCn96HCixbdqUKtK5bEB?authuser=1)* |This notebook sets up a sophisticated deep-research-style multi-agent system.
 
----
-> Running into issues? Open an issue and tag it with the chapter number.
