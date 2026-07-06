@@ -1,7 +1,7 @@
 # 07 — Fine-Tuning LLMs on Your Own Data: LoRA, QLoRA & PEFT ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/finetune_lora.ipynb`](code/finetune_lora.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=yKFislZpFbI)  
+> **Code:** [`code/finetune_lora.ipynb`](https://colab.research.google.com/drive/1xrGdM6qrKmKKY1PywZb1HOMelz8RrRFi?usp=sharing)  
 > **What this is:** How to adapt an existing LLM to your domain without retraining from scratch — and how to do it on consumer hardware.
 
 ---
