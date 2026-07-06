@@ -1,7 +1,7 @@
 # 11 — AI Agents Part 1: LLMs, Tool-Use & the Agentic Loop (ReAct) ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/agent_react.ipynb`](code/agent_react.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=B9CLL3cyEZw)  
+> **Code:** [`code/agent_react.ipynb`](https://colab.research.google.com/drive/1NsD6qfwJZs7qIZYK5zrsJYndM84ovD-t?authuser=1)  
 > **What this is:** The jump from "a model that talks" to "a system that acts."
 
 ---
