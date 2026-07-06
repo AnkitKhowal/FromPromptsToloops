@@ -17,7 +17,7 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
+| *(https://colab.research.google.com/drive/1Omn-Wz63EYlND29XsezKxcc3eyQ1TviQ?authuser=1)* | This notebook builds a Vanilla RAG (Retrieval Augmented Generation) pipeline called LegalBot. Its purpose is to create a chatbot that can answer questions about a SaaS product's legal documents (Terms of Service, Privacy Policy, Cookies Policy, End User License Agreement) with cited sources.|
 
 ---
 > Running into issues? Open an issue and tag it with the chapter number.
