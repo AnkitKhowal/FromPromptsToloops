@@ -1,7 +1,7 @@
 # 12 — Agentic Systems Part 2: MCP, Multi-Agents & Memory ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/multi_agent.ipynb`](code/multi_agent.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=l6_CbF9Hyq4)  
+> **Code:** [`code/multi_agent.ipynb`](https://colab.research.google.com/drive/1eyQqGxZgbXBrjCn96HCixbdqUKtK5bEB?authuser=1)  
 > **What this is:** How to build systems of agents that coordinate, share memory, and use standardized tool protocols.
 
 ---
