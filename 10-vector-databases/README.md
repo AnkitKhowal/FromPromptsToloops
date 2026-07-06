@@ -115,18 +115,6 @@ Final score = α × dense_score + (1-α) × sparse_score
 
 Weaviate, Elasticsearch, and Qdrant all support hybrid search out of the box.
 
----
-
-## Code
-
-[`code/vector_db.ipynb`](code/vector_db.ipynb) benchmarks:
-- Flat vs HNSW search speed at different dataset sizes
-- HNSW recall vs ef_search tradeoff curve
-- Building a FAISS HNSW index from scratch
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
----
 
 ## Go Deeper
 - [HNSW paper](https://arxiv.org/abs/1603.09320) — Malkov & Yashunin 2016
