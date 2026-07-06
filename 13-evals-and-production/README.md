@@ -1,7 +1,7 @@
 # 13 — AI Evals Explained: How to Test LLMs, RAG & Agents ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/evals.ipynb`](code/evals.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=G2soVcfZUZE)  
+> **Code:** [`code/evals.ipynb`](https://colab.research.google.com/drive/1a8_fk0WTyuOF8tMb9UVkUi9PBo2qp5GR?authuser=1)  
 > **What this is:** How to know whether your AI system is actually working — metrics, LLM-as-a-judge, and making evals a regression gate in CI.
 
 ---
@@ -158,7 +158,7 @@ No single eval layer is perfect. Each has holes. But stack them, and a failure h
 - Write a custom LLM-as-a-judge evaluator
 - Wire it as a CI check
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a8_fk0WTyuOF8tMb9UVkUi9PBo2qp5GR?authuser=1)
 
 ---
 
