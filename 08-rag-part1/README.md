@@ -1,7 +1,6 @@
 # 08 — RAG Part 1: How AI Looks Up YOUR Data (Chunking, Embeddings & Vector DBs) ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/rag_foundations.ipynb`](code/rag_foundations.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=HEkVYhaSXjA&t=13s)    
 > **What this is:** The foundations of Retrieval-Augmented Generation — why it exists and how each component works.
 
 ---
