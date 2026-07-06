@@ -17,7 +17,4 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
-
----
-> Running into issues? Open an issue and tag it with the chapter number.
+| *(https://colab.research.google.com/drive/1a8_fk0WTyuOF8tMb9UVkUi9PBo2qp5GR?authuser=1)* | This notebook demonstrates how to build and evaluate a Retrieval Augmented Generation (RAG) system for answering questions about AI/ML research papers. |
