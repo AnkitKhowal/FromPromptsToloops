@@ -17,7 +17,9 @@ jupyter notebook
 <!-- List notebooks and scripts added to this folder -->
 | File | Description |
 |------|-------------|
-| *(notebooks will appear here as the chapter is released)* | |
+| *https://colab.research.google.com/drive/1xrGdM6qrKmKKY1PywZb1HOMelz8RrRFi?usp=sharing* |This notebook demonstrates how to fine-tune a small Language Model (LLM) using your company's knowledge base to create an AI chatbot that provides accurate, company-specific answers. The scenario involves 'TechNova Solutions' wanting a chatbot to answer employee questions from their internal HR handbook, preventing hallucinations common with generic LLMs. The solution involves fine-tuning a small Llama 3.2 1B model with about 40-50 company-specific Q&A pairs. The notebook proves that while a base model hallucinates or fails to answer company-specific questions, a fine-tuned model can accurately respond to both direct and rephrased queries, demonstrating significant generalization. This process is made efficient and cost-effective using QLoRA quantization, allowing it to run on a free Colab T4 GPU.
+
+ |
 
 ---
 > Running into issues? Open an issue and tag it with the chapter number.
