@@ -1,7 +1,6 @@
 # 10 — How Vector Databases Actually Work: Indexing, ANN & HNSW ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/vector_db.ipynb`](code/vector_db.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=WT-heHpBTjk)
 > **What this is:** Under the hood of vector databases — why brute-force search doesn't scale, and how HNSW solves it.
 
 ---
