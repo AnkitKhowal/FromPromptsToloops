@@ -44,6 +44,74 @@ Each chapter README has a "Go Deeper" section with links to the original papers 
 
 ---
 
+## LLM Learning Roadmap
+
+Not sure where to start or what to learn next? Use this roadmap as a guide. It maps the concepts in this course to a progression from zero to building real systems.
+
+### Stage 1 — Understand what LLMs are (Chapters 00–01)
+> Goal: Be able to explain what an LLM is and why it matters, without hand-waving.
+
+- What tokens, parameters, and context windows mean
+- The difference between open-weight and closed models
+- When to use an API vs. run a model locally
+- **Milestone:** You can pick the right model for a given task and reason about its tradeoffs
+
+### Stage 2 — Learn how they actually work (Chapters 02–06)
+> Goal: Build an intuition for the math and mechanics, not just the buzzwords.
+
+- How neural networks learn (loss, gradients, backprop)
+- What the transformer architecture actually does
+- How attention connects tokens across a sequence
+- What happens inside a training run (data, RLHF, ablations)
+- **Milestone:** You can read an AI paper abstract and understand the core claim
+
+### Stage 3 — Customize and adapt models (Chapter 07)
+> Goal: Know when and how to fine-tune rather than prompt-engineer.
+
+- LoRA, QLoRA, and parameter-efficient fine-tuning (PEFT)
+- How to prepare a training dataset
+- Trade-offs between full fine-tuning and adapters
+- **Milestone:** You can fine-tune an open-weight model on a custom dataset
+
+### Stage 4 — Build retrieval-augmented systems (Chapters 08–10)
+> Goal: Connect LLMs to your own data reliably.
+
+- Chunking strategies and embedding models
+- How vector databases index and search at scale (HNSW, ANN)
+- Building a working RAG pipeline end-to-end
+- **Milestone:** You have a running RAG chatbot over a document set of your choice
+
+### Stage 5 — Build agents and multi-agent systems (Chapters 11–12)
+> Goal: Move beyond single-turn Q&A to systems that act and loop.
+
+- Tool use and the ReAct pattern
+- The agentic loop: plan → act → observe → repeat
+- MCP, multi-agent coordination, and memory
+- **Milestone:** You have an agent that uses at least two tools to complete a real task
+
+### Stage 6 — Evaluate and ship (Chapter 13)
+> Goal: Know when your system is good enough — and how to detect when it breaks.
+
+- Evaluation metrics (RAGAS, G-Eval, task-specific benchmarks)
+- LLM-as-a-judge patterns
+- Monitoring for drift and regressions in production
+- **Milestone:** Your system has an eval harness that catches regressions before users do
+
+---
+
+### Quick-reference by goal
+
+| I want to... | Start here |
+|---|---|
+| Understand LLMs from scratch | Chapter 00 → 01 → 02 |
+| Understand transformers deeply | Chapter 04 → 05 → 06 |
+| Build a RAG app this weekend | Chapter 08 → 09 → 10 |
+| Build an agent | Chapter 11 → 12 |
+| Fine-tune a model | Chapter 07 |
+| Ship something and measure quality | Chapter 13 |
+
+---
+
 ## Course Curriculum
 
 > ⭐ = video includes code / live build
