@@ -1,7 +1,6 @@
 # 05 — Transformers Part 2: How Attention REALLY Works (Q, K, V & Softmax, By Hand) ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/attention.ipynb`](code/attention.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=sd0H-u44z-A) 
 > **What this is:** A ground-up walkthrough of the attention mechanism — the math, the intuition, and the code.
 
 ---
