@@ -1,7 +1,7 @@
 # 09 — RAG Part 2: Build a RAG Chatbot from Scratch (LangChain, FAISS & OpenAI) ⭐
 
-> **Video:** [Watch on YouTube](https://www.youtube.com/@FromPromptstoLoops)  
-> **Code:** [`code/rag_chatbot.ipynb`](code/rag_chatbot.ipynb)  
+> **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=swyvc_oBbsI)  
+> **Code:** [`code/rag_chatbot.ipynb`](https://colab.research.google.com/drive/1Omn-Wz63EYlND29XsezKxcc3eyQ1TviQ?authuser=1)  
 > **What this is:** A complete, runnable RAG chatbot built end-to-end using LangChain, FAISS, and the OpenAI API.
 
 ---
@@ -120,7 +120,7 @@ Running 1,000 queries/day ≈ **$2–5/day**
 
 Full end-to-end notebook: [`code/rag_chatbot.ipynb`](code/rag_chatbot.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Omn-Wz63EYlND29XsezKxcc3eyQ1TviQ?authuser=1)
 
 **Requirements:**
 ```
