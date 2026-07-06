@@ -148,12 +148,12 @@ Use with caution — harder to debug, costs can spiral.
 
 ## Code
 
-[`code/multi_agent.ipynb`](code/multi_agent.ipynb):
+[`code/multi_agent.ipynb`](https://colab.research.google.com/drive/1eyQqGxZgbXBrjCn96HCixbdqUKtK5bEB?authuser=1):
 - A two-agent system: orchestrator + specialist
 - Long-term memory with ChromaDB
 - MCP tool usage example
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eyQqGxZgbXBrjCn96HCixbdqUKtK5bEB?authuser=1)
 
 ---
 
